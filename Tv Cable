@@ -1,15 +1,12 @@
 #EXTM3U
 
-
 #EXTINF:-1 ,Canal 13 HD
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9752.ts
 
-
 #EXTINF:-1 ,TVN HD
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/7.ts
-
 
 #EXTINF:-1 ,Mega HD
 
@@ -31,18 +28,26 @@ http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9753.ts
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/74.ts
 
-#EXTINF:-1 , Star Premium Familia
+#EXTINF:-1 ,Star Premium Familia
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/80.ts
 
-#EXTINF:-1 , Star Premium Series
+#EXTINF:-1 ,Star Premium Series
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/84.ts
 
-#EXTINF:-1 , Discovery Channel HD
+#EXTINF:-1 ,Discovery Channel HD
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/123.ts
 
 #EXTINF:-1 ,Discovery H&H
 
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9722.ts
+
+#EXTINF:-1 ,Nat Geo HD
+
+http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/51.ts
+
+#EXTINF:-1 ,Space HD
+
+http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9709.ts

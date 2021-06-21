@@ -1,11 +1,11 @@
 #EXTM3U
-
-
-#EXTINF:-1 ,Canal 13 HD
-
+#EXTINF:0 type="video" channelId="-1",  Canal 13
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9752.ts
-
-
-#EXTINF:-1 ,TVN HD
-
+#EXTINF:0 type="video" channelId="-1",  Chilevisión
+http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9754.ts
+#EXTINF:0 type="video" channelId="-1",  Mega HD
+http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/9750.ts
+#EXTINF:0 type="video" channelId="-1",  TVN HD
 http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/7.ts
+#EXTINF:0 type="video" channelId="-1",  CNN Chile 
+http://live.stablechannels.tv:80/live/jvxibyet/Yiq8je52D2/7464.ts
